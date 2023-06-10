@@ -21,17 +21,21 @@ El Vivero es un e-commerce hecho en React que ofrece una amplia variedad de plan
 ## Instalación
 
 1. Clona el repositorio:
+ ```sh
     git clone https://github.com/Gisbel/el-vivero.git
-
+   ```
 2. Navega hacia el directorio del proyecto:
+```sh
     cd el-vivero
-
+  ```
 3. Instala las dependencias:
+```sh
     npm install
-
+   ```
 4. Inicia el servidor de desarrollo:
+```sh
     npm run start
-
+   ```
 
 5. Abre tu navegador web y visita `http://localhost:3000` para acceder a El Vivero.
 
